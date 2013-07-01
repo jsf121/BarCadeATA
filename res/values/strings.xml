@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Ata Barcode</string>
+    <string name="action_settings">Settings</string>
+    <string name="btnscanner">Scanear</string>
+    <string name="lblcodigo">Codigo</string>
+    <string name="lbltipo">Tipo</string>
+
+</resources>
